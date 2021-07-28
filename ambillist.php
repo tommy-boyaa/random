@@ -1,5 +1,5 @@
 <?php 
-$lines = file('listcantisenyummanja.txt'); 
+$lines = file('domain.txt'); 
  
  
  
